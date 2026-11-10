@@ -1,0 +1,93 @@
+//console.log(Boolean(-1))
+
+/*let paymentAmount=500000
+let walletBalance=800000
+let isActive=true
+if (isActive && paymentAmount>0 && walletBalance> paymentAmount)
+{
+	console.log("payment successful")
+}
+else {
+	console.log("payment failed")
+}*/
+
+
+/*let email="   "
+
+if (!email.trim()){
+	console.log("email is required")
+}
+else {
+	console.log("email received")
+}*/
+
+
+
+/*let walletBalance=750000 ;
+if (walletBalance>=1000000){
+	console.log("gold")
+}
+else if (walletBalance>=500000){
+	console.log("silver")
+}
+else if (walletBalance>0 ){
+	console.log("bronz")
+}
+else {
+	console.log("empty")
+}
+*/
+
+/*let walletBalance=[100000,500000,630000,8500000,1500000]
+console.log(walletBalance.length)
+for(let i=0;i<walletBalance.length;i++) {
+    console.log(walletBalance[i])
+}*/
+
+/*
+for(let i=0;i<5;i++) {
+    console.log(i)
+}
+*/
+
+/*let counter=0
+while (counter<5) {
+                 console.log(counter)
+    counter++
+
+}*/
+
+//tamrin
+/*
+for(let i=0 ; i<=10 ; i++){
+    console.log(i)
+}
+
+let walletBalance=[500000,1200000,300000,800000,2000000]
+for (let i=0 ; i<walletBalance.length ; i++){
+    console.log(walletBalance[i])
+}
+
+
+let walletBalance=[500000,1200000,300000,800000,2000000]
+let totalbalance=0
+let counter=0
+while(counter<walletBalance.length){
+    totalbalance=totalbalance+walletBalance[counter]
+    counter++
+}
+console.log(totalbalance)
+
+
+let walletBalance=[500000,1200000,300000,800000,2000000]
+for( let i=0 ; i<walletBalance.length ; i++){
+    if (walletBalance[i]>=1000000){
+        console.log(walletBalance[i])
+    }
+}
+
+let counter=1
+while(counter<=5){
+    console.log(counter)
+    counter++
+}*/
